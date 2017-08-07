@@ -109,5 +109,11 @@ footer {
   background-color: rgb(127,177,152);
   padding: 15px 0;
   text-align: center;
+}
+
+input {
+
+width: 18px;
+height: 18px;
 
 }
